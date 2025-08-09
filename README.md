@@ -1,5 +1,6 @@
 # How To Host a Static Website on AWS using S3.
 ![](images/1_skq08Swdkwt1Q89nSuzg2w.webp)
+
 A static website is a website made up of fixed content, usually HTML, CSS, and JavaScript files, that look the same for every visitor unless the code is manually changed.
 
 It does not use a server-side language like PHP or a database to generate content dynamically, so it’s faster, cheaper to host, and ideal for portfolios, blogs, documentation, or landing pages.
